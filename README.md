@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Riddhi – a software engineer building scalable and maintainable systems<br>💻 Experienced in Java, Spring Boot, Kafka, Docker, and distributed system design<br>📊 Built event pipelines, no-code integrations, and real-time monitoring tools at scale<br>🔍 I love optimizing performance, automating workflows, and designing fault-tolerant architectures<br>📈 Previously worked across data engineering, API design, and observability tooling<br>🛠 Always learning, always building – from first principles<br>📫 Connect with me on [LinkedIn](https://linkedin.com/in/riddhiwho)<br><br>
+👋 Hi, I’m Riddhi – a curious software engineer building scalable and maintainable systems<br>🔍 I love optimizing performance, automating workflows, and designing fault-tolerant architectures<br>📈 Previously worked across data engineering, API design, and observability tooling<br>🛠 Always learning, always building – from first principles<br>📫 Connect with me on [LinkedIn](https://linkedin.com/in/riddhiwho)<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riddhiwho) 
